@@ -1,0 +1,38 @@
+body {
+  background: #621402;
+}
+.menu {
+  list-style-type: none;
+  display: flex;
+  margin: 0px;
+  margin-left: 17px;
+}
+.menu-item {
+  margin-right: 25px;
+}
+.menu-link {
+  color: white;
+  text-decoration: none;
+}
+.conteiner {
+  max-width: 1170px;
+  margin: auto;
+}
+.header {
+  display: flex;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.user {
+  margin-left: auto;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+.avatar {
+  border-radius: 50%;
+  width: 33px;
+  height: 33px;
+  margin-left: 11px;
+}
